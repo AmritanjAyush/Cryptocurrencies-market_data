@@ -2,10 +2,6 @@ Title: Market Analysis of Data for Cryptocurrencies (MADC)
 
 Website link: https://sabooshagun.github.io/madc/
 
-Authors:
-
-Shagun Saboo, Amritanj Ayush, Parthasarathy Murugesan, Shweta Mishra
-
 Summary:
 
 As the cryptocurrency market grows in popularity, so does the need to monitor price patterns to make prudent financial decisions. The general public's understanding of this market, as well as its sources, are currently limited and in general are scattered among various web sources. We intend to centralize all cryptocurrency pricing patterns and whereabouts in one place, making it more accessible to developers working on related products as well as normal retail investors trying to make better data-backed investment decisions. 
