@@ -4,8 +4,6 @@
 
 We had to come up with a unique name for the package to avoid any conflicts or similarities when when we upload it online. To differentiate our package name we finalised **Market Analysis of Data for Cryptocurrencies - MADC** (pronounced Mad-Cee)
 
-Website link: https://sabooshagun.github.io/madc/
-
 **Summary:**
 
 As the cryptocurrency market grows in popularity, so does the need to monitor price patterns to make prudent financial decisions. The general public's understanding of this market, as well as its sources, are currently limited and in general are scattered among various web sources. We intend to centralize all cryptocurrency pricing patterns and whereabouts in one place, making it more accessible to developers working on related products as well as normal retail investors trying to make better data-backed investment decisions. 
@@ -77,6 +75,8 @@ With that in mind, every project has room for improvement, and our package is no
 
 
 For downloading the packages required use the following command: pip install -r requirements.txt
+
+Website link: https://sabooshagun.github.io/madc/
 
 
 
