@@ -12,7 +12,7 @@ Taking the above in perspective, our program MADC uses API requests to collect d
 
 With just a few lines of Python code, MADC allows you to stream and download cryptocurrency market information and news. Five classes have been established, with sub-functions defined underneath them to provide the package's intended functionality. 
 
-**The classes are defined as below - **
+**The classes are defined as below -**
     
  1) **Class Crypto-History:** This class returns historic data (price) for desired Cryptocurrencies as a CSV file saved in the user's runtime directory. YFinance is            used to deliver data depending on the parameters provided by the user in the form of a time range and a crypto ticker. 
  
@@ -54,7 +54,7 @@ With just a few lines of Python code, MADC allows you to stream and download cry
     • CryptoMain: The main method which explains the flow of the class by calling above methods one after the other. First, provides the top 30 currencies, initializes       3 pandas dataframe and uses iteration to ping API and store dataset one after the other in coin_df which is thereafter pushed to raw_df.
     
 
-**Usage: **
+**Usage:**
 
 This package's objective is to serve as a one-stop shop for all things crypto. It aims to offer the user with as much information as possible to equip them with statistics and forecasts so that they can confidently envision where the market is headed, develop business strategies, and profit without much difficulty. The data that the user requests is publicly available on the internet; the package compiles it and delivers it to the end user in a legible format, so that they can decide how to use it to achieve their defined goals. There are multiple ways this handy package can be utilized, a few of them can be: 
 
