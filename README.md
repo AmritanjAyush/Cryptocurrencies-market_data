@@ -1,4 +1,8 @@
-## Name of the Python Package Market Analysis of Data for Cryptocurrencies (MADC)
+##Python Package - MADC
+
+**What does MADC stand for?**
+
+We had to come up with a unique name for the package to avoid any conflicts or similarities when when we upload it online. To differentiate our package name we finalised **Market Analysis of Data for Cryptocurrencies - MADC** (pronounced Mad-Cee)
 
 Website link: https://sabooshagun.github.io/madc/
 
